@@ -1,6 +1,10 @@
-### This is a REMOTE change :O
-# Macarrones
-line 2 changed remotelyy
-We are gonna prepare pasta with tomato
-last line changed locally
-### This is a REMOTE change :O
+# RECIPE
+
+### **List of ingredients**
+
+1. Macarronni
+2. Tomato sauce *Luiggi*
+3. Pork minced meat
+4. *Parmesanno* cheese
+
+![Macarronni tomato](recipe.jpg)
