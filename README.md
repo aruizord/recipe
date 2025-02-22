@@ -6,3 +6,5 @@
 2. Tomato sauce *Luiggi*
 3. Pork minced meat
 4. *Parmesanno* cheese
+
+![Macarronni tomato](recipe.jpg)
